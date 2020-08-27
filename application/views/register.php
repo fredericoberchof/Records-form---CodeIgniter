@@ -69,7 +69,7 @@
 
                     </tr>
                     <?php
-                    $con = mysqli_connect("h20.meuserver.com", "meucopoe_teste_fred", "teste-fred@4321","meucopoe_teste_fred","3306",null);
+                    $con = mysqli_connect("localhost", "root", "");
                     $query = "SELECT * FROM clientes order by nome asc";
                     $select = mysqli_query($con, $query) or die (mysqli_error($con));
                     while ($row = mysqli_fetch_assoc($select)) {
