@@ -22,7 +22,7 @@ Run localhost
 # 🎨 Layout
 
 
-![Tela inicial](https://github.com/fredericoberchof/Records-form---CodeIgniter/blob/master/application/Form.png)
+![Tela inicial](https://github.com/fredericoberchof/Records-form---CodeIgniter/blob/master/application/Image%202.png)
 
 
 ## 📬 Contact
